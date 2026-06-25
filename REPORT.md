@@ -1,6 +1,6 @@
 # Lab 21 — Evaluation Report (Rank Experiment & LoRA Fine-tuning)
 
-**Học viên**: Dương Đức Cường — 2A202600794
+**Học viên**: Nguyễn Thành Huy — 2A202600764
 **Ngày nộp**: 2026-06-25
 **Submission option**: B (HF Hub - Chuyên nghiệp & Có tính xác minh cao)
 

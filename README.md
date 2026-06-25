@@ -1,6 +1,6 @@
 # Lab 21 — Evaluation Report (Rank Experiment & LoRA Fine-tuning)
 
-**Học viên**: Dương Đức Cường — 2A202600794
+**Học viên**: Nguyễn Thành Huy — 2A202600764
 **Ngày nộp**: 2026-06-25
 **Submission option**: B (HF Hub - Chuyên nghiệp & Có tính xác minh cao)
 
@@ -10,7 +10,7 @@
 
 Đây là tài liệu đính kèm cho phương thức nộp bài **Option B (GitHub + HuggingFace Hub)**.
 
-- **GitHub Repository**: `https://github.com/DucCuong293/2A202600794_DuongDucCuong_Day21`
+- **GitHub Repository**: `https://github.com/huycodega/Day21-2A202600764-NguyenThanhHuy-Track3-Finetuning-LLMs-LoRA-QLoRA`
 - **HuggingFace Hub Adapter (r=16)**: `https://huggingface.co/kwzj123/qwen2.5-3b-medical-qa-lora`
 - **Weights & Biases (W&B) Run**: `https://wandb.ai/kwzj456-vietnamnet/lab21-lora-finetuning/runs/i7qp6yie`
 
